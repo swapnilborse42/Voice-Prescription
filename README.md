@@ -30,13 +30,15 @@ search bar and scrollable view <br>
 -By tapping on Patient record pdf is downloaded from firebase database and open in external pdf viewer automatically and Thus internet connectionis must.<br>
 
 # Patient Pdf-generation moulde
-<img src="https://github.com/swapnilborse42/Voice-Prescription/blob/master/voice%20prescription%20screenshots/f.jpeg" width="300" height="500"/>
+<img src="https://github.com/swapnilborse42/Voice-Prescription/blob/master/voice%20prescription%20screenshots/f.jpeg" width="300" height="500"/> <br>
 -Once tap on mic icon doctor have to dictect the patient info after the KEYWORDS like name symptoms, Diagnosis, prescription, Advice <br>
 E.g - name Swapnil Symptoms cold and fever Diagnosis backpain Prescription Crosin Advice take steam <br>
 After that all the info after keyword will be reflected inside sample report as below (If there is a mistake while speking, Doctor can also edit the the report manually) <br>
 <img src="https://github.com/swapnilborse42/Voice-Prescription/blob/master/voice%20prescription%20screenshots/g.jpeg" width="300" height="500"/>&nbsp<img src="https://github.com/swapnilborse42/Voice-Prescription/blob/master/voice%20prescription%20screenshots/h.jpeg" width="300" height="500"/> <br>
 -On Click GENERATE REPORT Report is generated and stored under mobile phone storage. <br>
-<img src="https://github.com/swapnilborse42/Voice-Prescription/blob/master/voice%20prescription%20screenshots/i.jpeg" width="300" height="500"/> <br>
+<img src="https://github.com/swapnilborse42/Voice-Prescription/blob/master/voice%20prescription%20screenshots/i.jpeg" width="300" height="500"/> <img src="https://github.com/swapnilborse42/Voice-Prescription/blob/master/voice%20prescription%20screenshots/j.jpeg" width="300" height="500"/>
+<img src="https://github.com/swapnilborse42/Voice-Prescription/blob/master/voice%20prescription%20screenshots/k.jpeg" width="300" height="500"/>
+<img src="https://github.com/swapnilborse42/Voice-Prescription/blob/master/voice%20prescription%20screenshots/l.jpeg" width="300" height="500"/> <br>
 -HEre DOctor can add any Special Comment for a perticular patient as shown and once Click on UPLOAD the same pdf with comment is stored uner firebase database and also Doctor get an Option to share password protected pdf report to various social media plateforms  <br>
 
 # Prescription Module
@@ -49,7 +51,7 @@ This module is same as search module but insted of search pannel Doctor able to 
 NOT Completed module-- HEre doctor is supposed to see all FAMILY history of perticular patient.
 
 # MY PRofile module 
-<img src="https://github.com/swapnilborse42/Voice-Prescription/blob/master/voice%20prescription%20screenshots/j.jpeg" width="300" height="500"/> <br>
+<img src="https://github.com/swapnilborse42/Voice-Prescription/blob/master/voice%20prescription%20screenshots/m.jpeg" width="300" height="500"/> <br>
 -Doctor can see his/her PRofile and also able to logout.
 
 
