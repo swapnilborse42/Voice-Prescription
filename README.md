@@ -28,7 +28,7 @@ search bar and scrollable view <br>
 -In search  Doctor can search for patient previous report using mobile number. <br>
 -For all patients recored in list view Doctor can see (for every entry) Mobile number ,date and time when report generated, symtoms and comments. <br>
 -By tapping on Patient record pdf is downloaded from firebase database and open in external pdf viewer automatically and Thus internet connectionis must.<br>
-
+ 
 # Patient Pdf-generation moulde
 <img src="https://github.com/swapnilborse42/Voice-Prescription/blob/master/voice%20prescription%20screenshots/f.jpeg" width="300" height="500"/> <br>
 -Once tap on mic icon doctor have to dictect the patient info after the KEYWORDS like name symptoms, Diagnosis, prescription, Advice <br>
