@@ -1,0 +1,395 @@
+-- Merging decision tree log ---
+provider#android.support.v4.content.FileProvider
+INJECTED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml:59:9-67:20
+	android:grantUriPermissions
+		ADDED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml:63:13-47
+	android:authorities
+		INJECTED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml:61:13-51
+	android:exported
+		ADDED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml:62:13-37
+	android:name
+		ADDED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml:60:13-67
+manifest
+ADDED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml:2:1-89:12
+INJECTED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml:2:1-89:12
+INJECTED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml:2:1-89:12
+INJECTED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml:2:1-89:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/swapnil/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/393b911f8bbc0e2171d26fa9680aaee2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/swapnil/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/45562f017cbc307fd89699535aab327c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/swapnil/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/bd1179c8cce3740fb9ee82adec72e118/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/swapnil/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/85bb90e829f4efca82106c6ce9525ff2/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:24.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/support-v4-24.0.0.aar/8441d437c16a90e31e25961afb01ac56/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/54020c8d82bf7385ca6da83210aae10d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database:16.0.4] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-database-16.0.4.aar/de97a1bf9b30beb20f5edc5a1e84ac06/AndroidManifest.xml:15:1-25:12
+MERGED from [com.google.firebase:firebase-storage:16.0.4] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-storage-16.0.4.aar/6741a208b54a80b5aec9633914e43305/AndroidManifest.xml:15:1-26:12
+MERGED from [com.google.firebase:firebase-auth:16.0.4] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/1a45ca147da99f7736e4949a0817f1d5/AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.firebase:firebase-firestore:21.3.1] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-firestore-21.3.1.aar/fa181e90247b0d622398e8f11a28180f/AndroidManifest.xml:2:1-26:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/swapnil/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/13f126b2e428cded639386514fb43c5e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/swapnil/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/80b75233b0f30b4277e2630809377f02/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/swapnil/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/167f9ed2df6cce5109fd384d82a902dc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/swapnil/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/15440d9fb93b5a586d62d05551491204/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/swapnil/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/0baffa02870c1d6498601b2982d7d7cb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/swapnil/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/b47e9b726942ec9a0a98ec4cdaef1a18/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/swapnil/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/1cb6e120ca08b2d9e767f2db6410486f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-18.0.0.aar/8ee98d0fcca8fb4af56e0dcdc19817f9/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/9141c018f73b8dea746ffeed557f8261/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-common-19.3.0.aar/598b35d341aaf09997cb65df5e295a96/AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/play-services-tasks-17.0.0.aar/4ef4afa401c6937ec276754a4a897bf1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/play-services-basement-17.0.0.aar/bc9f094087a26e4ed77872267f290702/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/87866f6f7df0a89edb81f1b7a16039f3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/45f8fc2adbeb64cb327d6c77174e01eb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/7dfdf2df054f81f48578a5ca0c12e087/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/7387c65cdcca8501c8ecb7c4e287fd36/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/54c56dfb10b40ba58325e89c9a7b1d8a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/7c56481d8444b23a19e04de408e8ab15/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/7ea5292c4375a9e5da3ed0bc1c09112f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/1031c8c19871be3da9aaf3ed474614c7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/92ad9f672bc5ec143a78b07f4cf11f29/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/ced6082bd75aa10cd305729c5e4a455c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/62ea23fb317a972c489bdb7069a626c0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/a3b477b080fc8bf6fbd113c213db20a2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/1b98513304043b7cbea7b6208ffa7177/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/c9c547185344bc761546db1848592de7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/9f0211c4ee3279fc4b0e530fde5cf3c3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/935a761b716f744060c25052ea30e472/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/b252685ab3361361829021e112501e82/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/c4bad13e7fddd4859ae0eef5262f9106/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/4a9b6418ab2af35e25fba40a9c5c48f7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/02fb98433a5d862b5385b2fa37f8ad2c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/d62634fde699ba96cf2a7832ab0228ed/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/4d93582bdba0a514504a5b2ab7db7bef/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/5d18f225ebbc78285cc5210d12efe5e2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-components-16.0.0.aar/b9642ddb57040809da233cfef83af1cc/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-database-collection-17.0.0.aar/0b55f8489f9d04b57a4f6497d33420a6/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:protolite-well-known-types:17.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/protolite-well-known-types-17.0.0.aar/2cfe296c72d789d02fd3b83ef2c7245d/AndroidManifest.xml:2:1-11:12
+MERGED from [io.grpc:grpc-android:1.21.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/grpc-android-1.21.0.aar/5f009cf21c8a0b46db29dee0840dc300/AndroidManifest.xml:2:1-13:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ea18063fa71cdeed24ff895d5099d5a6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/225f20f6062db0696fd36dacb6c69f35/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/244632f9f30a8f6398d7e49953c42a54/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e27f8adaabb8c1e3e8e04cb8cbf1fc9d/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml:2:1-89:12
+INJECTED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml:2:1-89:12
+INJECTED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml:2:1-89:12
+	package
+		ADDED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml:2:1-89:12
+		INJECTED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml:2:1-89:12
+		INJECTED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml:8:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml:9:22-77
+uses-permission#android.permission.INTERNET
+ADDED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml:10:5-67
+MERGED from [com.google.firebase:firebase-database:16.0.4] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-database-16.0.4.aar/de97a1bf9b30beb20f5edc5a1e84ac06/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-database:16.0.4] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-database-16.0.4.aar/de97a1bf9b30beb20f5edc5a1e84ac06/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-storage:16.0.4] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-storage-16.0.4.aar/6741a208b54a80b5aec9633914e43305/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-storage:16.0.4] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-storage-16.0.4.aar/6741a208b54a80b5aec9633914e43305/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-firestore:21.3.1] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-firestore-21.3.1.aar/fa181e90247b0d622398e8f11a28180f/AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-firestore:21.3.1] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-firestore-21.3.1.aar/fa181e90247b0d622398e8f11a28180f/AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml:10:22-64
+uses-permission#android.permission.READ_INTERNAL_STORAGE
+ADDED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml:12:22-77
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-database:16.0.4] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-database-16.0.4.aar/de97a1bf9b30beb20f5edc5a1e84ac06/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-database:16.0.4] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-database-16.0.4.aar/de97a1bf9b30beb20f5edc5a1e84ac06/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-storage:16.0.4] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-storage-16.0.4.aar/6741a208b54a80b5aec9633914e43305/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-storage:16.0.4] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-storage-16.0.4.aar/6741a208b54a80b5aec9633914e43305/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-firestore:21.3.1] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-firestore-21.3.1.aar/fa181e90247b0d622398e8f11a28180f/AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-firestore:21.3.1] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-firestore-21.3.1.aar/fa181e90247b0d622398e8f11a28180f/AndroidManifest.xml:13:5-79
+MERGED from [io.grpc:grpc-android:1.21.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/grpc-android-1.21.0.aar/5f009cf21c8a0b46db29dee0840dc300/AndroidManifest.xml:11:5-79
+MERGED from [io.grpc:grpc-android:1.21.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/grpc-android-1.21.0.aar/5f009cf21c8a0b46db29dee0840dc300/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml:13:22-76
+application
+ADDED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml:15:5-87:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/swapnil/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/85bb90e829f4efca82106c6ce9525ff2/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/swapnil/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/85bb90e829f4efca82106c6ce9525ff2/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v4:24.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/support-v4-24.0.0.aar/8441d437c16a90e31e25961afb01ac56/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/support-v4-24.0.0.aar/8441d437c16a90e31e25961afb01ac56/AndroidManifest.xml:25:5-20
+MERGED from [com.google.firebase:firebase-auth:16.0.4] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/1a45ca147da99f7736e4949a0817f1d5/AndroidManifest.xml:22:5-36:19
+MERGED from [com.google.firebase:firebase-auth:16.0.4] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/1a45ca147da99f7736e4949a0817f1d5/AndroidManifest.xml:22:5-36:19
+MERGED from [com.google.firebase:firebase-firestore:21.3.1] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-firestore-21.3.1.aar/fa181e90247b0d622398e8f11a28180f/AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:21.3.1] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-firestore-21.3.1.aar/fa181e90247b0d622398e8f11a28180f/AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-18.0.0.aar/8ee98d0fcca8fb4af56e0dcdc19817f9/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-18.0.0.aar/8ee98d0fcca8fb4af56e0dcdc19817f9/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/9141c018f73b8dea746ffeed557f8261/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/9141c018f73b8dea746ffeed557f8261/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-common-19.3.0.aar/598b35d341aaf09997cb65df5e295a96/AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-common-19.3.0.aar/598b35d341aaf09997cb65df5e295a96/AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/play-services-tasks-17.0.0.aar/4ef4afa401c6937ec276754a4a897bf1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/play-services-tasks-17.0.0.aar/4ef4afa401c6937ec276754a4a897bf1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/play-services-basement-17.0.0.aar/bc9f094087a26e4ed77872267f290702/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/play-services-basement-17.0.0.aar/bc9f094087a26e4ed77872267f290702/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/a3b477b080fc8bf6fbd113c213db20a2/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/a3b477b080fc8bf6fbd113c213db20a2/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/1b98513304043b7cbea7b6208ffa7177/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/1b98513304043b7cbea7b6208ffa7177/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/a3b477b080fc8bf6fbd113c213db20a2/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml:19:9-35
+	android:label
+		ADDED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml:17:9-41
+	android:largeHeap
+		ADDED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml:18:9-33
+	android:allowBackup
+		ADDED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml:16:9-35
+	android:theme
+		ADDED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml:20:9-40
+activity#com.app.pdfcreation.downloadPDF
+ADDED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml:21:9-49
+	android:name
+		ADDED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml:21:19-46
+activity#com.app.pdfcreation.home1
+ADDED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml:22:9-28:20
+	android:name
+		ADDED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml:22:19-40
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml:26:27-74
+activity#com.app.pdfcreation.home
+ADDED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml:29:9-37:20
+	android:name
+		ADDED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml:29:19-39
+activity#com.app.pdfcreation.pdfviewer
+ADDED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml:38:9-47
+	android:name
+		ADDED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml:38:19-44
+activity#com.app.pdfcreation.viewPDF
+ADDED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml:39:9-45
+	android:name
+		ADDED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml:39:19-42
+activity#com.app.pdfcreation.Upload
+ADDED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml:40:9-48:20
+	android:name
+		ADDED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml:40:19-41
+activity#com.app.pdfcreation.ui.PdfCreationActivity
+ADDED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml:49:9-57:20
+	android:name
+		ADDED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml:49:19-57
+activity#com.app.pdfcreation.SpeechToText
+ADDED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml:69:9-77:20
+	android:name
+		ADDED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml:69:19-47
+activity#com.app.pdfcreation.register
+ADDED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml:78:9-86:20
+	android:name
+		ADDED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml:78:19-43
+uses-sdk
+INJECTED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml
+INJECTED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/swapnil/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/393b911f8bbc0e2171d26fa9680aaee2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/swapnil/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/393b911f8bbc0e2171d26fa9680aaee2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/swapnil/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/45562f017cbc307fd89699535aab327c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/swapnil/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/45562f017cbc307fd89699535aab327c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/swapnil/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/bd1179c8cce3740fb9ee82adec72e118/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/swapnil/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/bd1179c8cce3740fb9ee82adec72e118/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/swapnil/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/85bb90e829f4efca82106c6ce9525ff2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/swapnil/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/85bb90e829f4efca82106c6ce9525ff2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:24.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/support-v4-24.0.0.aar/8441d437c16a90e31e25961afb01ac56/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/support-v4-24.0.0.aar/8441d437c16a90e31e25961afb01ac56/AndroidManifest.xml:21:5-23:54
+MERGED from [androidx.cardview:cardview:1.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/54020c8d82bf7385ca6da83210aae10d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/54020c8d82bf7385ca6da83210aae10d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database:16.0.4] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-database-16.0.4.aar/de97a1bf9b30beb20f5edc5a1e84ac06/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-database:16.0.4] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-database-16.0.4.aar/de97a1bf9b30beb20f5edc5a1e84ac06/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-storage:16.0.4] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-storage-16.0.4.aar/6741a208b54a80b5aec9633914e43305/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-storage:16.0.4] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-storage-16.0.4.aar/6741a208b54a80b5aec9633914e43305/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-auth:16.0.4] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/1a45ca147da99f7736e4949a0817f1d5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:16.0.4] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/1a45ca147da99f7736e4949a0817f1d5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-firestore:21.3.1] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-firestore-21.3.1.aar/fa181e90247b0d622398e8f11a28180f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-firestore:21.3.1] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-firestore-21.3.1.aar/fa181e90247b0d622398e8f11a28180f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:27.1.1] /home/swapnil/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/13f126b2e428cded639386514fb43c5e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/swapnil/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/13f126b2e428cded639386514fb43c5e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/swapnil/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/80b75233b0f30b4277e2630809377f02/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/swapnil/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/80b75233b0f30b4277e2630809377f02/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/swapnil/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/167f9ed2df6cce5109fd384d82a902dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/swapnil/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/167f9ed2df6cce5109fd384d82a902dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/swapnil/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/15440d9fb93b5a586d62d05551491204/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/swapnil/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/15440d9fb93b5a586d62d05551491204/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/swapnil/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/0baffa02870c1d6498601b2982d7d7cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/swapnil/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/0baffa02870c1d6498601b2982d7d7cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/swapnil/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/b47e9b726942ec9a0a98ec4cdaef1a18/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/swapnil/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/b47e9b726942ec9a0a98ec4cdaef1a18/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/swapnil/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/1cb6e120ca08b2d9e767f2db6410486f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/swapnil/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/1cb6e120ca08b2d9e767f2db6410486f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-18.0.0.aar/8ee98d0fcca8fb4af56e0dcdc19817f9/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-18.0.0.aar/8ee98d0fcca8fb4af56e0dcdc19817f9/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/9141c018f73b8dea746ffeed557f8261/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/9141c018f73b8dea746ffeed557f8261/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-common-19.3.0.aar/598b35d341aaf09997cb65df5e295a96/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-common-19.3.0.aar/598b35d341aaf09997cb65df5e295a96/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/play-services-tasks-17.0.0.aar/4ef4afa401c6937ec276754a4a897bf1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/play-services-tasks-17.0.0.aar/4ef4afa401c6937ec276754a4a897bf1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/play-services-basement-17.0.0.aar/bc9f094087a26e4ed77872267f290702/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/play-services-basement-17.0.0.aar/bc9f094087a26e4ed77872267f290702/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/87866f6f7df0a89edb81f1b7a16039f3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/87866f6f7df0a89edb81f1b7a16039f3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/45f8fc2adbeb64cb327d6c77174e01eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/45f8fc2adbeb64cb327d6c77174e01eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/7dfdf2df054f81f48578a5ca0c12e087/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/7dfdf2df054f81f48578a5ca0c12e087/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/7387c65cdcca8501c8ecb7c4e287fd36/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/7387c65cdcca8501c8ecb7c4e287fd36/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/54c56dfb10b40ba58325e89c9a7b1d8a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/54c56dfb10b40ba58325e89c9a7b1d8a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/7c56481d8444b23a19e04de408e8ab15/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/7c56481d8444b23a19e04de408e8ab15/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/7ea5292c4375a9e5da3ed0bc1c09112f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/7ea5292c4375a9e5da3ed0bc1c09112f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/1031c8c19871be3da9aaf3ed474614c7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/1031c8c19871be3da9aaf3ed474614c7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/92ad9f672bc5ec143a78b07f4cf11f29/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/92ad9f672bc5ec143a78b07f4cf11f29/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/ced6082bd75aa10cd305729c5e4a455c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/ced6082bd75aa10cd305729c5e4a455c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/62ea23fb317a972c489bdb7069a626c0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/62ea23fb317a972c489bdb7069a626c0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/a3b477b080fc8bf6fbd113c213db20a2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/a3b477b080fc8bf6fbd113c213db20a2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/1b98513304043b7cbea7b6208ffa7177/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/1b98513304043b7cbea7b6208ffa7177/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/c9c547185344bc761546db1848592de7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/c9c547185344bc761546db1848592de7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/9f0211c4ee3279fc4b0e530fde5cf3c3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/9f0211c4ee3279fc4b0e530fde5cf3c3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/935a761b716f744060c25052ea30e472/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/935a761b716f744060c25052ea30e472/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/b252685ab3361361829021e112501e82/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/b252685ab3361361829021e112501e82/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/c4bad13e7fddd4859ae0eef5262f9106/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/c4bad13e7fddd4859ae0eef5262f9106/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/4a9b6418ab2af35e25fba40a9c5c48f7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/4a9b6418ab2af35e25fba40a9c5c48f7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/02fb98433a5d862b5385b2fa37f8ad2c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/02fb98433a5d862b5385b2fa37f8ad2c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/d62634fde699ba96cf2a7832ab0228ed/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/d62634fde699ba96cf2a7832ab0228ed/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/4d93582bdba0a514504a5b2ab7db7bef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/4d93582bdba0a514504a5b2ab7db7bef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/5d18f225ebbc78285cc5210d12efe5e2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/5d18f225ebbc78285cc5210d12efe5e2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:16.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-components-16.0.0.aar/b9642ddb57040809da233cfef83af1cc/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-components-16.0.0.aar/b9642ddb57040809da233cfef83af1cc/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-database-collection-17.0.0.aar/0b55f8489f9d04b57a4f6497d33420a6/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-database-collection-17.0.0.aar/0b55f8489f9d04b57a4f6497d33420a6/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:17.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/protolite-well-known-types-17.0.0.aar/2cfe296c72d789d02fd3b83ef2c7245d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:17.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/protolite-well-known-types-17.0.0.aar/2cfe296c72d789d02fd3b83ef2c7245d/AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.21.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/grpc-android-1.21.0.aar/5f009cf21c8a0b46db29dee0840dc300/AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.21.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/grpc-android-1.21.0.aar/5f009cf21c8a0b46db29dee0840dc300/AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ea18063fa71cdeed24ff895d5099d5a6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ea18063fa71cdeed24ff895d5099d5a6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/225f20f6062db0696fd36dacb6c69f35/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/225f20f6062db0696fd36dacb6c69f35/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/244632f9f30a8f6398d7e49953c42a54/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/244632f9f30a8f6398d7e49953c42a54/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e27f8adaabb8c1e3e8e04cb8cbf1fc9d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e27f8adaabb8c1e3e8e04cb8cbf1fc9d/AndroidManifest.xml:20:5-44
+INJECTED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml
+INJECTED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:24.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/support-v4-24.0.0.aar/8441d437c16a90e31e25961afb01ac56/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml:64:13-66:48
+	android:resource
+		ADDED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml:66:17-45
+	android:name
+		ADDED from /home/swapnil/AndroidStudioProjects/pdf-creation-by-xml-android-master/app/src/main/AndroidManifest.xml:65:17-67
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:16.0.4] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/1a45ca147da99f7736e4949a0817f1d5/AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:16.0.4] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/1a45ca147da99f7736e4949a0817f1d5/AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:16.0.4] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/1a45ca147da99f7736e4949a0817f1d5/AndroidManifest.xml:27:13-48
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.4] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/1a45ca147da99f7736e4949a0817f1d5/AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:16.0.4] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/1a45ca147da99f7736e4949a0817f1d5/AndroidManifest.xml:28:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:16.0.4] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/1a45ca147da99f7736e4949a0817f1d5/AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.4] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/1a45ca147da99f7736e4949a0817f1d5/AndroidManifest.xml:24:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:16.0.4] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/1a45ca147da99f7736e4949a0817f1d5/AndroidManifest.xml:31:9-35:19
+MERGED from [com.google.firebase:firebase-firestore:21.3.1] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-firestore-21.3.1.aar/fa181e90247b0d622398e8f11a28180f/AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-firestore:21.3.1] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-firestore-21.3.1.aar/fa181e90247b0d622398e8f11a28180f/AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-common-19.3.0.aar/598b35d341aaf09997cb65df5e295a96/AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-common-19.3.0.aar/598b35d341aaf09997cb65df5e295a96/AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-firestore:21.3.1] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-firestore-21.3.1.aar/fa181e90247b0d622398e8f11a28180f/AndroidManifest.xml:19:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-common-19.3.0.aar/598b35d341aaf09997cb65df5e295a96/AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-common-19.3.0.aar/598b35d341aaf09997cb65df5e295a96/AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.4] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/1a45ca147da99f7736e4949a0817f1d5/AndroidManifest.xml:31:18-89
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:16.0.4] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/1a45ca147da99f7736e4949a0817f1d5/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:16.0.4] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/1a45ca147da99f7736e4949a0817f1d5/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.4] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/1a45ca147da99f7736e4949a0817f1d5/AndroidManifest.xml:33:17-109
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:21.3.1] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-firestore-21.3.1.aar/fa181e90247b0d622398e8f11a28180f/AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:21.3.1] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-firestore-21.3.1.aar/fa181e90247b0d622398e8f11a28180f/AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:21.3.1] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-firestore-21.3.1.aar/fa181e90247b0d622398e8f11a28180f/AndroidManifest.xml:21:17-111
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/9141c018f73b8dea746ffeed557f8261/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/9141c018f73b8dea746ffeed557f8261/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/9141c018f73b8dea746ffeed557f8261/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/9141c018f73b8dea746ffeed557f8261/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.3.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-common-19.3.0.aar/598b35d341aaf09997cb65df5e295a96/AndroidManifest.xml:26:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-common-19.3.0.aar/598b35d341aaf09997cb65df5e295a96/AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-common-19.3.0.aar/598b35d341aaf09997cb65df5e295a96/AndroidManifest.xml:29:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-common-19.3.0.aar/598b35d341aaf09997cb65df5e295a96/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/firebase-common-19.3.0.aar/598b35d341aaf09997cb65df5e295a96/AndroidManifest.xml:27:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/play-services-basement-17.0.0.aar/bc9f094087a26e4ed77872267f290702/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/play-services-basement-17.0.0.aar/bc9f094087a26e4ed77872267f290702/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/swapnil/.gradle/caches/transforms-1/files-1.1/play-services-basement-17.0.0.aar/bc9f094087a26e4ed77872267f290702/AndroidManifest.xml:24:13-58

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "49886398623",
+    "firebase_url": "https://pdf-creation-by-xml-android-ma.firebaseio.com",
+    "project_id": "pdf-creation-by-xml-android-ma",
+    "storage_bucket": "pdf-creation-by-xml-android-ma.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49886398623:android:772fe0c0286b80a3d9faaa",
+        "android_client_info": {
+          "package_name": "com.app.pdfcreation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49886398623-07bp05t6jim8oasdgpuc5t674op0hfn5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.pdfcreation",
+            "certificate_hash": "2a3d494b81c176608116a9f4c9864b735ba7a151"
+          }
+        },
+        {
+          "client_id": "49886398623-t7hbo274k8d7kgchn2fu5pa2mnv6m48n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNND5wNR3PCokaOHbp1rd6wJ7xPPeelHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49886398623-t7hbo274k8d7kgchn2fu5pa2mnv6m48n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
